@@ -1,0 +1,2 @@
+//Caso comando yarn start não localizar o emulador.
+npx react-native run-android
